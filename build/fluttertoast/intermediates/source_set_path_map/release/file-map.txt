@@ -1,0 +1,12 @@
+io.github.ponnamkarthik.toast.fluttertoast-jetified-window-1.0.0-beta04-0 C:\Users\sande\.gradle\caches\transforms-3\4f3216bd632e2c7ae0c94918436383b5\transformed\jetified-window-1.0.0-beta04\res
+io.github.ponnamkarthik.toast.fluttertoast-jetified-window-java-1.0.0-beta04-1 C:\Users\sande\.gradle\caches\transforms-3\845b3bf80ab3c92afd24f189386247bb\transformed\jetified-window-java-1.0.0-beta04\res
+io.github.ponnamkarthik.toast.fluttertoast-jetified-annotation-experimental-1.1.0-2 C:\Users\sande\.gradle\caches\transforms-3\88c1a5650d46db1771a63ee765e90a71\transformed\jetified-annotation-experimental-1.1.0\res
+io.github.ponnamkarthik.toast.fluttertoast-core-1.6.0-3 C:\Users\sande\.gradle\caches\transforms-3\ec0635957fc77e6aa41685c77707ff01\transformed\core-1.6.0\res
+io.github.ponnamkarthik.toast.fluttertoast-pngs-4 C:\Users\sande\AndroidStudioProjects\attendance_admin\build\fluttertoast\generated\res\pngs\release
+io.github.ponnamkarthik.toast.fluttertoast-resValues-5 C:\Users\sande\AndroidStudioProjects\attendance_admin\build\fluttertoast\generated\res\resValues\release
+io.github.ponnamkarthik.toast.fluttertoast-rs-6 C:\Users\sande\AndroidStudioProjects\attendance_admin\build\fluttertoast\generated\res\rs\release
+io.github.ponnamkarthik.toast.fluttertoast-mergeReleaseResources-7 C:\Users\sande\AndroidStudioProjects\attendance_admin\build\fluttertoast\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.github.ponnamkarthik.toast.fluttertoast-mergeReleaseResources-8 C:\Users\sande\AndroidStudioProjects\attendance_admin\build\fluttertoast\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.github.ponnamkarthik.toast.fluttertoast-merged_res-9 C:\Users\sande\AndroidStudioProjects\attendance_admin\build\fluttertoast\intermediates\merged_res\release
+io.github.ponnamkarthik.toast.fluttertoast-main-10 C:\Users\sande\AppData\Local\Pub\Cache\hosted\pub.dev\fluttertoast-8.2.2\android\src\main\res
+io.github.ponnamkarthik.toast.fluttertoast-release-11 C:\Users\sande\AppData\Local\Pub\Cache\hosted\pub.dev\fluttertoast-8.2.2\android\src\release\res

@@ -1,0 +1,12 @@
+io.flutter.plugins.sharedpreferences.shared_preferences_android-jetified-window-1.0.0-beta04-0 C:\Users\sande\.gradle\caches\transforms-3\4f3216bd632e2c7ae0c94918436383b5\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.sharedpreferences.shared_preferences_android-jetified-window-java-1.0.0-beta04-1 C:\Users\sande\.gradle\caches\transforms-3\845b3bf80ab3c92afd24f189386247bb\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.sharedpreferences.shared_preferences_android-jetified-annotation-experimental-1.1.0-2 C:\Users\sande\.gradle\caches\transforms-3\88c1a5650d46db1771a63ee765e90a71\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.sharedpreferences.shared_preferences_android-core-1.6.0-3 C:\Users\sande\.gradle\caches\transforms-3\ec0635957fc77e6aa41685c77707ff01\transformed\core-1.6.0\res
+io.flutter.plugins.sharedpreferences.shared_preferences_android-pngs-4 C:\Users\sande\AndroidStudioProjects\attendance_admin\build\shared_preferences_android\generated\res\pngs\release
+io.flutter.plugins.sharedpreferences.shared_preferences_android-resValues-5 C:\Users\sande\AndroidStudioProjects\attendance_admin\build\shared_preferences_android\generated\res\resValues\release
+io.flutter.plugins.sharedpreferences.shared_preferences_android-rs-6 C:\Users\sande\AndroidStudioProjects\attendance_admin\build\shared_preferences_android\generated\res\rs\release
+io.flutter.plugins.sharedpreferences.shared_preferences_android-mergeReleaseResources-7 C:\Users\sande\AndroidStudioProjects\attendance_admin\build\shared_preferences_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.sharedpreferences.shared_preferences_android-mergeReleaseResources-8 C:\Users\sande\AndroidStudioProjects\attendance_admin\build\shared_preferences_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.sharedpreferences.shared_preferences_android-merged_res-9 C:\Users\sande\AndroidStudioProjects\attendance_admin\build\shared_preferences_android\intermediates\merged_res\release
+io.flutter.plugins.sharedpreferences.shared_preferences_android-main-10 C:\Users\sande\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.2.1\android\src\main\res
+io.flutter.plugins.sharedpreferences.shared_preferences_android-release-11 C:\Users\sande\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.2.1\android\src\release\res
